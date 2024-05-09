@@ -19,15 +19,15 @@ const Slider01 = () => {
 
     <div className="flex items-center justify-center flex-col h-[900px] bg-[#6c34af]">
 
-{/* 
-Mee Slider eke 
-Images File Name - Slider01
-Meekt wenama Constants deel thyenw (Me slider ek used krddi ewath dann one
-    e wagem Tailwind and 
-    npm install swiper react-icons      (ookath importn krnn oooone)
-    )
+                {/* 
+                Mee Slider eke 
+                Images File Name - Slider01
+                Meekt wenama Constants deel thyenw (Me slider ek used krddi ewath dann one
+                    e wagem Tailwind and 
+                    npm install swiper react-icons      (ookath importn krnn oooone)
+                    )
 
-*/}
+                */}
 
     <Swiper
       breakpoints={{
